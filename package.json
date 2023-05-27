@@ -1,0 +1,7 @@
+{
+  "name": "ai-demo",
+  "version": "1.0.0",
+  "description": "OpenAI API Demo Application",
+  "main": "index.js",
+  "license": "MIT"
+}
